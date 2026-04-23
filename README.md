@@ -25,7 +25,7 @@ Dynamic software testing intern and web developer with a keen eye for detail and
 - Created page layouts, interactive UI elements, and applied basic UI fixes.
 - Optimized loading speed and overall usability through structured coding.
 
-## 🚀 Projects
+## Projects
 
 - **Air Quality Monitoring**
   An IoT-based air quality monitoring system utilizing an MQ135 sensor and an Arduino to detect harmful gases and process data. Data is displayed on an LCD and sent to a web server for remote monitoring.
