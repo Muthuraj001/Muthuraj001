@@ -1,9 +1,13 @@
 # Hi there, I'm Muthuraj P 👋
 
-Dynamic software testing intern and web developer with a keen eye for detail and strong analytical skills. I am committed to delivering impactful results, ensuring high-quality web designs, and maintaining workflow efficiency in fast-paced environments.
+Frontend Developer | React Developer | Software Testing Enthusiast
+
+I'm a Computer Science and Engineering graduate passionate about building responsive web applications and learning modern web technologies. I have experience in Frontend Development, Software Testing, and UI Design through internships and personal projects.
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Java, SQL, HTML, CSS
+- **Languages:** Java, SQL, Python
+- **Frontend :** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js,Responsive Web Design
+- **Tools & Technologies :** Git, GitLab, VS Code, npm, REST APIs
 - **Core Competencies:** Software Testing, Web Design & Development, Bug Tracking & Reporting
 
 ## 💼 Experience
@@ -31,6 +35,8 @@ Dynamic software testing intern and web developer with a keen eye for detail and
   An IoT-based air quality monitoring system utilizing an MQ135 sensor and an Arduino to detect harmful gases and process data. Data is displayed on an LCD and sent to a web server for remote monitoring.
 - **Website Design & Development**
   Focused on creating well-designed, functional, and user-friendly websites that cater to both business needs and customer satisfaction.
+- **Portfilio**
+  A modern and responsive personal portfolio website developed to showcase my skills, projects, certifications, and professional experience.
 
 ## 🎓 Education
 - **Bachelor of Engineering** | Unnamalai Institue of Technology, Kovilpatti - Tuticorin *(Nov 2021 - May 2025)*
@@ -41,5 +47,14 @@ Dynamic software testing intern and web developer with a keen eye for detail and
 - **LinkedIn:** [Muthuraj P](#) <!-- Add your exact LinkedIn URL here -->
 - **GitHub:** [Muthuraj001](https://github.com/Muthuraj001)
 
+## 📈 Goals for 2026
+- Learn Node.js and Express.js
+- Build Full Stack Applications
+- Master React Ecosystem
+- Improve Software Testing Skills
+- Contribute to Open Source Projects
+  
 ---
 *Languages Spoken: English, Tamil*
+
+                                           ⭐ Feel free to explore my repositories and connect with me!
