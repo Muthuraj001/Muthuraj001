@@ -57,6 +57,6 @@ I'm a Computer Science and Engineering graduate passionate about building respon
 ---
 *Languages Spoken: English, Tamil*
 
-## Portfolio **--** (https://www.muthuraj.online/)
+## Portfolio **--** [Muthuraj.P](https://www.muthuraj.online/)
                                        
                                         ⭐ Feel free to explore my repositories and connect with me!
